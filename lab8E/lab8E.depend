@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647447244 source:c:\users\811487\desktop\lab8e\main.cpp
+	<iostream>
+	<fstream>
+	<queue>
+	<vector>
+

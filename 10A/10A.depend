@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649836420 source:c:\users\811487\desktop\Алгоритмы и структуры данных\2 Семестр\10a\main.cpp
+	<iostream>
+	<fstream>
+
